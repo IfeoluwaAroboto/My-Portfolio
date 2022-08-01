@@ -126,7 +126,7 @@ height: auto;
 
 
 /* hero */
-header {
+ body header {
   min-height: 100vh;
   background: 
     url(/main-bcg.jpeg) center/cover no-repeat;
@@ -230,7 +230,7 @@ footer p {
 .title span {
   color: var(--clr-secondary);
 }
-header {
+ body header {
   min-height: 80vh;
   background: 
     url(/main-bcg.jpeg) center/cover no-repeat;
