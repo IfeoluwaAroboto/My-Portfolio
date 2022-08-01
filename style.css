@@ -129,7 +129,7 @@ height: auto;
  body header {
   min-height: 100vh;
   background: 
-    url(/main-bcg.jpeg) center/cover no-repeat;
+    url(./main-bcg.jpeg) center/cover no-repeat;
     
 }
 .banner {
@@ -230,10 +230,13 @@ footer p {
 .title span {
   color: var(--clr-secondary);
 }
+.logo{ color: darksalmon;
+  font-family: 'Tangerine', serif;
+}
  body header {
   min-height: 80vh;
   background: 
-    url(/main-bcg.jpeg) center/cover no-repeat;
+    url(./main-bcg.jpeg) center/cover no-repeat;
     
 }
 .banner {
