@@ -233,6 +233,14 @@ footer p {
 .logo{ color: darksalmon;
   font-family: 'Tangerine', serif;
 }
+
+.links li{
+  list-style: none;
+}
+
+.links a{
+text-decoration: none;
+}
  body header {
   min-height: 80vh;
   background: 
