@@ -129,7 +129,7 @@ height: auto;
 header {
   min-height: 100vh;
   background: 
-    url(/images/main-bcg.jpeg) center/cover no-repeat;
+    url(/main-bcg.jpeg) center/cover no-repeat;
     
 }
 .banner {
@@ -233,7 +233,7 @@ footer p {
 header {
   min-height: 80vh;
   background: 
-    url(/images/main-bcg.jpeg) center/cover no-repeat;
+    url(/main-bcg.jpeg) center/cover no-repeat;
     
 }
 .banner {
