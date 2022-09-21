@@ -324,7 +324,9 @@ footer p {
 .links li{
   list-style: none;
 }
-
+#home{
+  height: 500px;
+}
 .links a{
 text-decoration: none;
 }
